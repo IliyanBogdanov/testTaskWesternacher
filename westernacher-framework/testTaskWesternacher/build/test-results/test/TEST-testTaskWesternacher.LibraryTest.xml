@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testTaskWesternacher.LibraryTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-11-24T17:12:56" hostname="Ilyan-Bogdanov" time="53.537">
+  <properties/>
+  <testcase name="createPersonalLeave" classname="testTaskWesternacher.LibraryTest" time="14.498"/>
+  <testcase name="requestPersonalLeave" classname="testTaskWesternacher.LibraryTest" time="12.872"/>
+  <testcase name="deletePersonalLeave" classname="testTaskWesternacher.LibraryTest" time="12.899"/>
+  <testcase name="logInEasyLeave" classname="testTaskWesternacher.LibraryTest" time="13.267"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}) on port 9576
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1574615577.543][WARNING]: This version of ChromeDriver has not been tested with Chrome version 78.
+[1574615579.584][WARNING]: Timed out connecting to Chrome, retrying...
+Nov 24, 2019 7:13:01 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[1574615585.345][WARNING]: Timed out connecting to Chrome, retrying...
+[1574615591.484][WARNING]: This version of ChromeDriver has not been tested with Chrome version 78.
+[1574615593.505][WARNING]: Timed out connecting to Chrome, retrying...
+Nov 24, 2019 7:13:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[1574615598.933][WARNING]: Timed out connecting to Chrome, retrying...
+[1574615604.470][WARNING]: This version of ChromeDriver has not been tested with Chrome version 78.
+[1574615606.489][WARNING]: Timed out connecting to Chrome, retrying...
+Nov 24, 2019 7:13:28 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[1574615611.600][WARNING]: Timed out connecting to Chrome, retrying...
+[1574615617.298][WARNING]: This version of ChromeDriver has not been tested with Chrome version 78.
+[1574615619.310][WARNING]: Timed out connecting to Chrome, retrying...
+Nov 24, 2019 7:13:41 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[1574615624.444][WARNING]: Timed out connecting to Chrome, retrying...
+]]></system-err>
+</testsuite>
